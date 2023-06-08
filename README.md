@@ -7,7 +7,7 @@ This is a solution to War from The Self-Taught Programmer by Cory Althoff.
 - [Title](#title)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [Screenshot](#screenshot)
+    - [Screenshots](#screenshots)
     - [Link](#link)
     - [Game Rules](#game-rules)
   - [My process](#my-process)
@@ -20,7 +20,7 @@ This is a solution to War from The Self-Taught Programmer by Cory Althoff.
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 Sample Game of War Part 1:
 ![War](war1.png "sample game of War part 1")
@@ -44,11 +44,11 @@ Based off of the card game War, each player draws a card from the deck.  The pla
 
 ### What I learned
 
-YES!  This project made me so excited because, even though it is simple, it was my first project in Python using OOP principles.  I really like how classes and objects keep everything organized and it was really neat to finally see a full application of those concepts outside of smaller explanatory examples.  Context helps so much.
+YES!  This project made me so excited because, even though it is simple, it was my first project in Python using OOP principles.  I really like how classes and objects keep everything organized and it was really neat to finally see a full application of those concepts outside of smaller explanatory examples.  Context helps learning so much.
 
 ### Continued development
 
-In future Python projects, 
+In future Python projects, I'm curious to learn how to work with packages and connect things to the frontend for some fabulous UI/UX practice.
 
 ### Useful resources
 
